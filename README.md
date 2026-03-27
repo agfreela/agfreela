@@ -1,7 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+AG+Freela;I%27m+40+years+old;I%27m+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header"/>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+AG+Freela;I%27m+40+years+old;I%27m+from+Brazil;Data+Scientist;Be+Welcome!+:%29" />
+</p>
 ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
